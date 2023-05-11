@@ -1,0 +1,97 @@
+/* Set global font styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+/* Set hero section styles */
+.hero-section {
+  background-color: #FF6B6B;
+  color: #FFFFFF;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero-section h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.hero-section a {
+  background-color: #4ECDC4;
+  border-radius: 5px;
+  color: #FFFFFF;
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* Set main content section styles */
+.main-content {
+  background-color: #2B2D42;
+  color: #FFFFFF;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.main-content h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.main-content p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+/* Set accent color styles */
+a, button {
+  background-color: #FFE66D;
+  border-radius: 5px;
+  color: #2B2D42;
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover, button:hover {
+  background-color: #F9C74F;
+  color: #2B2D42;
+}
+
+/* Set icon and graphic styles */
+.icon {
+  color: #4ECDC4;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.graphic {
+  fill: #4ECDC4;
+}
+
+/* Set footer styles */
+.footer {
+  background-color: #FFFFFF;
+  color: #2B2D42;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
